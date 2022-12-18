@@ -62,3 +62,42 @@
   tags:
   - Primary Research
   _cache: 65590c6a889a3ca73e5f3a93d1f32e7ab6234633c64fbc5fe9d0c8edf1c0b9ba
+- id: doi:10.1038/s43018-020-00155-8
+  title: How to kill Treg cells for immunotherapy
+  authors:
+  - Gavin I. Ellis
+  - James L. Riley
+  publisher: Nature Cancer
+  date: '2020-12-16'
+  link: https://doi.org/grhnxf
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-020-00155-8/MediaObjects/43018_2020_155_Fig1_HTML.png
+  tags:
+  - Commentary
+  _cache: 36391b52f0f1196f6bce8348f97ab5fae7d80877a161dc58e25e87864cc05aba
+- id: doi:10.1182/blood.2020006372
+  title: Robust expansion of HIV CAR T cells following antigen boosting in ART-suppressed
+    nonhuman primates
+  authors:
+  - Blake J. Rust
+  - Leslie S. Kean
+  - Lucrezia Colonna
+  - Katherine E. Brandenstein
+  - Nikhita H. Poole
+  - Willimark Obenza
+  - Mark R. Enstrom
+  - Colby R. Maldini
+  - Gavin I. Ellis
+  - Christine M. Fennessey
+  - Meei-Li Huang
+  - Brandon F. Keele
+  - Keith R. Jerome
+  - James L. Riley
+  - Hans-Peter Kiem
+  - Christopher W. Peterson
+  publisher: Blood
+  date: '2020-10-08'
+  link: https://doi.org/grhnxg
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/136/15/10.1182_blood.2020006372/2/m_bloodbld2020006372absf1.png
+  tags:
+  - Primary Research
+  _cache: c8b36d0502a8315f969c72d6d762a3e02062228fc74c623d3747523ecfdcec79
