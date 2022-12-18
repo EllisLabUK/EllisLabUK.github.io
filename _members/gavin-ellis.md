@@ -3,6 +3,7 @@ name: Gavin Ellis
 image: images/gavinellis.jpg
 description: Principal Investigator
 role: Principal Investigator
+group: current
 aliases:
   - Gavin I. Ellis
 
