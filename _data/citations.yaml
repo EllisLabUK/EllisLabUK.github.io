@@ -21,10 +21,12 @@
   date: ''
   link: https://doi.org/grhmfw
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2666166722006645-fx1.jpg
+  tags:
+  - Primary Research
   extra-links:
   - type: source
     link: https://www.sciencedirect.com/science/article/pii/S2666166722006645
-  _cache: db9d7166ea17e3e60be4a7a0c10795dd3598fb50e471bf5762032d745279c076
+  _cache: befca063ff8fc5e5e5061f62df01115e920203bd1a4238e4416449dc2c2bd31c
 - id: doi:10.1016/j.xpro.2022.101784
   title: Generation of non-human primate CAR Tregs using artificial antigen-presenting
     cells, simian tropic lentiviral vectors, and antigen-specific restimulation
@@ -42,10 +44,12 @@
   date: ''
   link: https://doi.org/grhnjx
   image: https://github.com/EllisLabUK/EllisLab.github.io/blob/main/images/2022CellRepMed.jpg?raw=true
+  tags:
+  - Primary Research
   extra-links:
   - type: source
     link: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00131-8
-  _cache: 544ef5e9fdf20b33553fc6e382bd37c25fa99646652726926a397517c3650b0a
+  _cache: 32c0304b65f64bcd0818e357a68711a700fa65da9168b4a71617c54acd2cb6f3
 - id: doi:10.4049/jimmunol.2200145
   title: "HIV-1\u2013Infected CD4<sup>+</sup>T Cells Present MHC Class II\u2013Restricted\
     \ Epitope via Endogenous Processing"
@@ -60,4 +64,6 @@
   publisher: The Journal of Immunology
   date: '2022-08-05'
   link: https://doi.org/grhnxd
-  _cache: 09aef001da35e45ce2d2883a999650cf9c617a918ec6da488b8a6c9053b47abf
+  tags:
+  - Primary Research
+  _cache: ac2de293089a7da894b04b573c98da46a815f78893c21f7c0a41a951bf072fb4
