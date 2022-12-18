@@ -6,4 +6,7 @@ nav:
   tooltip: Our Funding Sources
 ---
 
+
+# <i class="fas fa-coins"></i>Funding
+
 Coming Soon!
