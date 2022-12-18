@@ -3,6 +3,8 @@ name: Gavin Ellis
 image: images/gavinellis.jpg
 description: Principal Investigator
 role: Principal Investigator
+aliases:
+  - Gavin I. Ellis
 
 links:
   email: giel222@uky.edu
