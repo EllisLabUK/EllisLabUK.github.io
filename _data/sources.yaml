@@ -12,3 +12,13 @@
   image: https://github.com/EllisLabUK/EllisLab.github.io/blob/main/images/2022CellRepMed.jpg?raw=true
   tags:
     - Primary Research
+
+- id: doi:10.1038/s43018-020-00155-8
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-020-00155-8/MediaObjects/43018_2020_155_Fig1_HTML.png
+  tags:
+    - Commentary
+    
+- id: doi:10.1182/blood.2020006372
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/136/15/10.1182_blood.2020006372/2/m_bloodbld2020006372absf1.png
+  tags:
+    - Primary Research
