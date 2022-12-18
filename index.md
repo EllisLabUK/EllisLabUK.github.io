@@ -15,7 +15,7 @@ The Ellis Lab uses cellular engineering of T cells in rodent, non-human primate,
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.png" %}
+{% include banner.html image="images/header.png" %}
 
 {% include section.html %}
 
