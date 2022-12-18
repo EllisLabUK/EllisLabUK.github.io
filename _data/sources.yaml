@@ -1,16 +1,24 @@
 - id: doi:10.1016/j.xcrm.2022.100614
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2666166722006645-fx1.jpg
   date: 2022-12-16
+  tags:
+    - Primary Research
   extra-links:
     - type: source
       link: https://www.sciencedirect.com/science/article/pii/S2666166722006645
+ 
+      
 
 
 - id: doi:10.1016/j.xpro.2022.101784
   image: https://github.com/EllisLabUK/EllisLab.github.io/blob/main/images/2022CellRepMed.jpg?raw=true
   date: 2022-05-17
+  tags:
+    - Primary Research
   extra-links:
     - type: source
       link: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00131-8
 
 - id: doi:10.4049/jimmunol.2200145
+  tags:
+    - Primary Research
