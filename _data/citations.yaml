@@ -18,10 +18,31 @@
   - Raimon Duran-Struuck
   - James L. Riley
   publisher: Cell Reports Medicine
-  date: '2022-05-17'
+  date: ''
   link: https://doi.org/grhmfw
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666166722006645-fx1.jpg
+  extra-links:
+  - type: Source
+    link: https://www.sciencedirect.com/science/article/pii/S2666166722006645
+  _cache: b72c26eb7f156c6e835470c78f11eeeee3a3f503aa2ca7ed0840998b3e4604fe
+- id: 10.1016/j.xpro.2022.101784
+  title: Generation of non-human primate CAR Tregs using artificial antigen-presenting
+    cells, simian tropic lentiviral vectors, and antigen-specific restimulation
+  authors:
+  - Gavin I. Ellis
+  - Mosha Z. Deng
+  - Delaine W. Winn
+  - Kimberly E. Coker
+  - Divanshu Shukla
+  - Vijay Bhoj
+  - Michael C. Milone
+  - Raimon Duran-Struuck
+  - James L. Riley
+  publisher: STAR Protocols
+  date: '2022-05-17'
+  link: https://doi.org/grhnjx
   image: https://github.com/EllisLabUK/EllisLab.github.io/blob/main/images/2022CellRepMed.jpg?raw=true
   extra-links:
   - type: Source
     link: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00131-8
-  _cache: 75e52dccce5d5e7e2bcbbff24efa07c2cacc2bb185f01b81ea8bf6e59de4316e
+  _cache: 701586f63153371e5f27a3894f2fea00b97dbb9de6629527a74086756273d239
