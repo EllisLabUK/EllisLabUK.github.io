@@ -23,10 +23,7 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2666166722006645-fx1.jpg
   tags:
   - Primary Research
-  extra-links:
-  - type: source
-    link: https://www.sciencedirect.com/science/article/pii/S2666166722006645
-  _cache: ab9e27f3b3daf69da157a9ca8eae0dbd8c9a68e2f10ccede748e18f75c020920
+  _cache: 754959aa5206daff95b9d63246715e64c58110c36f690377996a602024fb391e
 - id: doi:10.1016/j.xpro.2022.101784
   title: Generation of non-human primate CAR Tregs using artificial antigen-presenting
     cells, simian tropic lentiviral vectors, and antigen-specific restimulation
@@ -46,10 +43,7 @@
   image: https://github.com/EllisLabUK/EllisLab.github.io/blob/main/images/2022CellRepMed.jpg?raw=true
   tags:
   - Primary Research
-  extra-links:
-  - type: source
-    link: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00131-8
-  _cache: dbc9bcfe7f98579b5a9710e26752549df0dde304e8ac389536e035671aa506fd
+  _cache: 478bee17056035ea9995b77741731d937c4930a58c6f4dc20d91f7a6476ad8b7
 - id: doi:10.4049/jimmunol.2200145
   title: "HIV-1\u2013Infected CD4<sup>+</sup>T Cells Present MHC Class II\u2013Restricted\
     \ Epitope via Endogenous Processing"
