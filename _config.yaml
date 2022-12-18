@@ -6,7 +6,7 @@ description: Website for the Ellis Lab at the University of Kentucky
 logo: images/EllisLabLogo.png
 header: images/EllisLabLogo.jpg
 footer: images/EllisLabLogo.jpg
-baseurl: ""
+baseurl: "EllisLab.github.io"
 
 # site social media and other links
 links:
