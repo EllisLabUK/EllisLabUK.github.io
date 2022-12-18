@@ -50,7 +50,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
+  link="[research](https://ellislabuk.github.io/research)"
   title="Our Research"
   text=text
 %}
