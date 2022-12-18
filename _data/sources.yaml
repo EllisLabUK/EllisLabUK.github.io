@@ -19,6 +19,11 @@
     - Commentary
     
 - id: doi:10.1182/blood.2020006372
-  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/136/15/10.1182_blood.2020006372/2/m_bloodbld2020006372absf1.png
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/136/15/10.1182_blood.2020006372/2/m_bloodbld2020006372absf1.png?Expires=1673664222&Signature=5MKSjLqNz-ku52JQvXxJyP9H3GAWU4tTZOYwWG1bowtL3UmARNsQXpEx2CxetAoByc8XqR9I-O4nCWU78RSLnNHG95B5fgyJn4sbw9bbtc0K06pIY0zVCFoiOgJcMu1xIQefT5dSyMKokdPo6~Sj4ToK~CwZwa1gv4AVBwJycw~zcHielxBL0CaNd81whxJ~tCU95OFuHpuEWxkZEmbj6hQVI3y1BMAb1RlA4p9-admm~iyaEeKbuXLwREfgohXudud7oBpTfkRhtGsvbrAh9N0W2gmZeRds-QZRsFpOd9Wo79eMFXlwZ4zKfzW8DfvNDLRl1j8pBBEAy1iXkaxeOQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
     - Primary Research
+
+- id: 10.1038/s41576-021-00329-9
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41576-021-00329-9/MediaObjects/41576_2021_329_Fig1_HTML.png?as=webp
+  tags:
+    - Review
