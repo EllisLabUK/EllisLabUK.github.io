@@ -12,6 +12,11 @@
   image: https://github.com/EllisLabUK/EllisLab.github.io/blob/main/images/2022CellRepMed.jpg?raw=true
   tags:
     - Primary Research
+    
+- id: doi:10.1038/s41576-021-00329-9
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41576-021-00329-9/MediaObjects/41576_2021_329_Fig1_HTML.png?as=webp
+  tags:
+    - Review
 
 - id: doi:10.1038/s43018-020-00155-8
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-020-00155-8/MediaObjects/43018_2020_155_Fig1_HTML.png
@@ -23,7 +28,22 @@
   tags:
     - Primary Research
 
-- id: 10.1038/s41576-021-00329-9
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41576-021-00329-9/MediaObjects/41576_2021_329_Fig1_HTML.png?as=webp
+- id: doi:10.1038/s41577-018-0042-2
+  image: https://media.springernature.com/w200/springer-static/cover-hires/journal/41577/18/10
   tags:
     - Review
+    
+ - id: doi:10.1177/1744806916647055
+   image: https://journals.sagepub.com/cms/10.1177/1744806916647055/asset/images/large/10.1177_1744806916647055-fig1.jpeg
+   tags:
+     - Primary Resarch
+   
+ - id: doi:10.1007/s10620-015-3700-2
+    image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10620-015-3700-2/MediaObjects/10620_2015_3700_Fig2_HTML.gif?as=webp
+    tags:
+      - Primary Research
+      
+- id: doi:10.1002/eji.201343571
+    image: https://onlinelibrary.wiley.com/cms/asset/d6d2f893-4ace-4d92-9e0d-a84dfacbfdc1/eji2774-fig-0003-m.png
+    tags:
+      - Primary Research
