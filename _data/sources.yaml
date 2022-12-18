@@ -1,6 +1,15 @@
 - id: 10.1016/j.xcrm.2022.100614
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666166722006645-fx1.jpg
+  date: 2022-12-16
+  extra-links:
+    - type: Source
+      link: https://www.sciencedirect.com/science/article/pii/S2666166722006645
+
+
+- id: 10.1016/j.xpro.2022.101784
   image: https://github.com/EllisLabUK/EllisLab.github.io/blob/main/images/2022CellRepMed.jpg?raw=true
   date: 2022-5-17
   extra-links:
     - type: Source
       link: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00131-8
+
