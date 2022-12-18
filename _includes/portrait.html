@@ -41,8 +41,13 @@
 
   {%- if name -%}
     <span class="portrait_name">
-      {{ name }}<br>
-      {{ description }}
+      {{ name }}
+    </span>
+  {%- endif -%}
+  
+  {%- if text -%}
+    <span class="role_text">
+      {{ text }}
     </span>
   {%- endif -%}
   
