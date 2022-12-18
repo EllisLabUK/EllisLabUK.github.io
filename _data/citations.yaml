@@ -1,6 +1,44 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1016/j.xpro.2022.101784
+  title: Generation of non-human primate CAR Tregs using artificial antigen-presenting
+    cells, simian tropic lentiviral vectors, and antigen-specific restimulation
+  authors:
+  - Gavin I. Ellis
+  - Mosha Z. Deng
+  - Delaine W. Winn
+  - Kimberly E. Coker
+  - Divanshu Shukla
+  - Vijay Bhoj
+  - Michael C. Milone
+  - Raimon Duran-Struuck
+  - James L. Riley
+  publisher: STAR Protocols
+  date: '2022-12-01'
+  link: https://doi.org/grhnjx
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666166722006645-fx1.jpg
+  tags:
+  - Primary Research
+  _cache: 8268717163a92d9647d6f9ac1a6e494b42234c68ab77a55df34e4689028b185c
+- id: doi:10.4049/jimmunol.2200145
+  title: "HIV-1\u2013Infected CD4<sup>+</sup>T Cells Present MHC Class II\u2013Restricted\
+    \ Epitope via Endogenous Processing"
+  authors:
+  - Mary M. Addison
+  - Gavin I. Ellis
+  - George J. Leslie
+  - Noah B. Zawadzky
+  - James L. Riley
+  - James A. Hoxie
+  - Laurence C. Eisenlohr
+  publisher: The Journal of Immunology
+  date: '2022-08-05'
+  link: https://doi.org/grhnxd
+  image: https://aai.silverchair-cdn.com/aai/content_public/journal/jimmunol/209/5/10.4049_jimmunol.2200145/1/m_ji2200145f2.png
+  tags:
+  - Primary Research
+  _cache: 3880303ac6e48a6e2ea574bae3a750a6dd0e6ad819046487dc683566049e86a8
 - id: doi:10.1016/j.xcrm.2022.100614
   title: "Trafficking and persistence of alloantigen-specific chimeric antigen receptor\
     \ regulatory T\_cells in Cynomolgus macaque"
@@ -20,45 +58,7 @@
   publisher: Cell Reports Medicine
   date: '2022-05-01'
   link: https://doi.org/grhmfw
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666166722006645-fx1.jpg
-  tags:
-  - Primary Research
-  _cache: 754959aa5206daff95b9d63246715e64c58110c36f690377996a602024fb391e
-- id: doi:10.1016/j.xpro.2022.101784
-  title: Generation of non-human primate CAR Tregs using artificial antigen-presenting
-    cells, simian tropic lentiviral vectors, and antigen-specific restimulation
-  authors:
-  - Gavin I. Ellis
-  - Mosha Z. Deng
-  - Delaine W. Winn
-  - Kimberly E. Coker
-  - Divanshu Shukla
-  - Vijay Bhoj
-  - Michael C. Milone
-  - Raimon Duran-Struuck
-  - James L. Riley
-  publisher: STAR Protocols
-  date: '2022-12-01'
-  link: https://doi.org/grhnjx
   image: https://github.com/EllisLabUK/EllisLab.github.io/blob/main/images/2022CellRepMed.jpg?raw=true
   tags:
   - Primary Research
-  _cache: 478bee17056035ea9995b77741731d937c4930a58c6f4dc20d91f7a6476ad8b7
-- id: doi:10.4049/jimmunol.2200145
-  title: "HIV-1\u2013Infected CD4<sup>+</sup>T Cells Present MHC Class II\u2013Restricted\
-    \ Epitope via Endogenous Processing"
-  authors:
-  - Mary M. Addison
-  - Gavin I. Ellis
-  - George J. Leslie
-  - Noah B. Zawadzky
-  - James L. Riley
-  - James A. Hoxie
-  - Laurence C. Eisenlohr
-  publisher: The Journal of Immunology
-  date: '2022-08-05'
-  link: https://doi.org/grhnxd
-  image: https://aai.silverchair-cdn.com/aai/content_public/journal/jimmunol/209/5/10.4049_jimmunol.2200145/1/m_ji2200145f2.png
-  tags:
-  - Primary Research
-  _cache: 3880303ac6e48a6e2ea574bae3a750a6dd0e6ad819046487dc683566049e86a8
+  _cache: 65590c6a889a3ca73e5f3a93d1f32e7ab6234633c64fbc5fe9d0c8edf1c0b9ba
