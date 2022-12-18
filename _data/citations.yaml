@@ -1,7 +1,7 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: 10.1016/j.xcrm.2022.100614
+- id: doi:10.1016/j.xcrm.2022.100614
   title: "Trafficking and persistence of alloantigen-specific chimeric antigen receptor\
     \ regulatory T\_cells in Cynomolgus macaque"
   authors:
@@ -24,8 +24,8 @@
   extra-links:
   - type: Source
     link: https://www.sciencedirect.com/science/article/pii/S2666166722006645
-  _cache: b72c26eb7f156c6e835470c78f11eeeee3a3f503aa2ca7ed0840998b3e4604fe
-- id: 10.1016/j.xpro.2022.101784
+  _cache: d99dd7f0eaf2e3ebd4a552a6c87d017a32aa1f77285ff9c759372bf89e8cadf3
+- id: doi:10.1016/j.xpro.2022.101784
   title: Generation of non-human primate CAR Tregs using artificial antigen-presenting
     cells, simian tropic lentiviral vectors, and antigen-specific restimulation
   authors:
@@ -45,4 +45,4 @@
   extra-links:
   - type: Source
     link: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00131-8
-  _cache: 67a7911339dc666155965e1bc6e576767c54632f6afbbfd89eb687883d28372c
+  _cache: b4873be9a23473a0f5c5d59ae8d69eb4023bec3ea3fb9bf0f6f757cfc10120bd
