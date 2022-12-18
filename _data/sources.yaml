@@ -2,20 +2,11 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2666166722006645-fx1.jpg
   tags:
     - Primary Research
-  extra-links:
-    - type: source
-      link: https://www.sciencedirect.com/science/article/pii/S2666166722006645
  
-      
-
-
 - id: doi:10.1016/j.xpro.2022.101784
   image: https://github.com/EllisLabUK/EllisLab.github.io/blob/main/images/2022CellRepMed.jpg?raw=true
   tags:
     - Primary Research
-  extra-links:
-    - type: source
-      link: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00131-8
 
 - id: doi:10.4049/jimmunol.2200145
   image: https://aai.silverchair-cdn.com/aai/content_public/journal/jimmunol/209/5/10.4049_jimmunol.2200145/1/m_ji2200145f2.png
