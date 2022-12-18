@@ -97,7 +97,20 @@
   publisher: Blood
   date: '2020-10-08'
   link: https://doi.org/grhnxg
-  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/136/15/10.1182_blood.2020006372/2/m_bloodbld2020006372absf1.png
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/136/15/10.1182_blood.2020006372/2/m_bloodbld2020006372absf1.png?Expires=1673664222&Signature=5MKSjLqNz-ku52JQvXxJyP9H3GAWU4tTZOYwWG1bowtL3UmARNsQXpEx2CxetAoByc8XqR9I-O4nCWU78RSLnNHG95B5fgyJn4sbw9bbtc0K06pIY0zVCFoiOgJcMu1xIQefT5dSyMKokdPo6~Sj4ToK~CwZwa1gv4AVBwJycw~zcHielxBL0CaNd81whxJ~tCU95OFuHpuEWxkZEmbj6hQVI3y1BMAb1RlA4p9-admm~iyaEeKbuXLwREfgohXudud7oBpTfkRhtGsvbrAh9N0W2gmZeRds-QZRsFpOd9Wo79eMFXlwZ4zKfzW8DfvNDLRl1j8pBBEAy1iXkaxeOQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
   - Primary Research
-  _cache: c8b36d0502a8315f969c72d6d762a3e02062228fc74c623d3747523ecfdcec79
+  _cache: 00ee7322567eb3048ea6393a563f31ca875126c4c7b3c74dcd9b912f502faf0a
+- id: 10.1038/s41576-021-00329-9
+  title: Genetic engineering of T cells for immunotherapy
+  authors:
+  - Gavin I. Ellis
+  - Neil C. Sheppard
+  - James L. Riley
+  publisher: Nature Reviews Genetics
+  date: '2021-02-18'
+  link: https://doi.org/gh4vk6
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41576-021-00329-9/MediaObjects/41576_2021_329_Fig1_HTML.png?as=webp
+  tags:
+  - Review
+  _cache: f8849a4d3bc2b111149ee567a8d562bc94ce5be35885dc7008af90df501c6161
