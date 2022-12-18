@@ -20,8 +20,8 @@
   publisher: Cell Reports Medicine
   date: '2022-05-17'
   link: https://doi.org/grhmfw
-  image: https://github.com/EllisLabUK/EllisLab.github.io/blob/main/images/2022CellRepMed.jpg
+  image: https://github.com/EllisLabUK/EllisLab.github.io/blob/main/images/2022CellRepMed.jpg?raw=true
   extra-links:
   - type: Source
     link: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00131-8
-  _cache: 473e3a590a9e21346473a80ebc10a21d9f83446f2a582859c58fff5e45ae7a11
+  _cache: 75e52dccce5d5e7e2bcbbff24efa07c2cacc2bb185f01b81ea8bf6e59de4316e
