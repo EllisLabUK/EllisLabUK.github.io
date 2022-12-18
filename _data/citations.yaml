@@ -62,6 +62,19 @@
   tags:
   - Primary Research
   _cache: 65590c6a889a3ca73e5f3a93d1f32e7ab6234633c64fbc5fe9d0c8edf1c0b9ba
+- id: doi:10.1038/s41576-021-00329-9
+  title: Genetic engineering of T cells for immunotherapy
+  authors:
+  - Gavin I. Ellis
+  - Neil C. Sheppard
+  - James L. Riley
+  publisher: Nature Reviews Genetics
+  date: '2021-02-18'
+  link: https://doi.org/gh4vk6
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41576-021-00329-9/MediaObjects/41576_2021_329_Fig1_HTML.png?as=webp
+  tags:
+  - Review
+  _cache: 57441e66fc59a59de3145db0beff1a6f0f02301607876724de21a52a4110bd04
 - id: doi:10.1038/s43018-020-00155-8
   title: How to kill Treg cells for immunotherapy
   authors:
@@ -101,16 +114,70 @@
   tags:
   - Primary Research
   _cache: 00ee7322567eb3048ea6393a563f31ca875126c4c7b3c74dcd9b912f502faf0a
-- id: 10.1038/s41576-021-00329-9
-  title: Genetic engineering of T cells for immunotherapy
+- id: doi:10.1038/s41577-018-0042-2
+  title: CAR T cells for infection, autoimmunity and allotransplantation
   authors:
+  - Colby R. Maldini
   - Gavin I. Ellis
-  - Neil C. Sheppard
   - James L. Riley
-  publisher: Nature Reviews Genetics
-  date: '2021-02-18'
-  link: https://doi.org/gh4vk6
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41576-021-00329-9/MediaObjects/41576_2021_329_Fig1_HTML.png?as=webp
+  publisher: Nature Reviews Immunology
+  date: '2018-07-25'
+  link: https://doi.org/gfdz2x
+  image: https://media.springernature.com/w200/springer-static/cover-hires/journal/41577/18/10
   tags:
   - Review
-  _cache: f8849a4d3bc2b111149ee567a8d562bc94ce5be35885dc7008af90df501c6161
+  _cache: 50470a100045efd3bdbbca5e2b9fe818963619336b2e8dfce594c28abc9b2d57
+- id: doi:10.1177/1744806916647055
+  title: Diffuse traumatic brain injury induces prolonged immune dysregulation and
+    potentiates hyperalgesia following a peripheral immune challenge
+  authors:
+  - Rachel K Rowe
+  - Gavin I Ellis
+  - Jordan L Harrison
+  - Adam D Bachstetter
+  - Gregory F Corder
+  - Linda J Van Eldik
+  - Bradley K Taylor
+  - Francesc Marti
+  - Jonathan Lifshitz
+  publisher: Molecular Pain
+  date: '2016-01-01'
+  link: https://doi.org/f8pczg
+  image: https://journals.sagepub.com/cms/10.1177/1744806916647055/asset/images/large/10.1177_1744806916647055-fig1.jpeg
+  tags:
+  - Primary Research
+  _cache: 76729d1e5ecb2105248ae4c3b40a807e11692a7c3fe3f69f81d4555d5dd6c2cb
+- id: doi:10.1007/s10620-015-3700-2
+  title: "Correlation of Biomarker Expression in Colonic Mucosa with Disease Phenotype\
+    \ in Crohn\u2019s Disease and Ulcerative Colitis"
+  authors:
+  - Maria E. C. Bruno
+  - Eric W. Rogier
+  - Razvan I. Arsenescu
+  - Deborah R. Flomenhoft
+  - Cathryn J. Kurkjian
+  - Gavin I. Ellis
+  - Charlotte S. Kaetzel
+  publisher: Digestive Diseases and Sciences
+  date: '2015-05-09'
+  link: https://doi.org/f747w4
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10620-015-3700-2/MediaObjects/10620_2015_3700_Fig2_HTML.gif?as=webp
+  tags:
+  - Primary Research
+  _cache: 08bf4f2a215b00ce65bc21329639b633afbe01b054a3e0caca93586049844e36
+- id: doi:10.1002/eji.201343571
+  title: Mitochondrial and cytosolic roles of PINK1 shape induced regulatory T-cell
+    development and function
+  authors:
+  - Gavin I. Ellis
+  - Lianteng Zhi
+  - Ravi Akundi
+  - "Hansruedi B\xFCeler"
+  - Francesc Marti
+  publisher: European Journal of Immunology
+  date: '2013-09-14'
+  link: https://doi.org/f2n5fr
+  image: https://onlinelibrary.wiley.com/cms/asset/d6d2f893-4ace-4d92-9e0d-a84dfacbfdc1/eji2774-fig-0003-m.png
+  tags:
+  - Primary Research
+  _cache: 480b1d478c3d8afad15f6d3d2210ff3a9ac38e41378f76d85f0dc8f15e5e2eec
