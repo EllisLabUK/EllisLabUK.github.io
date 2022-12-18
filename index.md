@@ -9,29 +9,13 @@ title: Home
 
 # The Ellis Lab: Driving CAR Tregs to the clinic
 
-The Ellis Lab uses cellular engineering in rodent, non-human primate, and humanized models of disease to bring CAR Tregs to the clinic.
+The Ellis Lab uses cellular engineering of T cells in rodent, non-human primate, and humanized models of disease to bring CAR Tregs to the clinic.
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
 {:.center}
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/banner.png" %}
 
 {% include section.html %}
 
