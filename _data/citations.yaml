@@ -18,7 +18,7 @@
   - Raimon Duran-Struuck
   - James L. Riley
   publisher: Cell Reports Medicine
-  date: ''
+  date: '2022-05-01'
   link: https://doi.org/grhmfw
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2666166722006645-fx1.jpg
   tags:
@@ -26,7 +26,7 @@
   extra-links:
   - type: source
     link: https://www.sciencedirect.com/science/article/pii/S2666166722006645
-  _cache: befca063ff8fc5e5e5061f62df01115e920203bd1a4238e4416449dc2c2bd31c
+  _cache: ab9e27f3b3daf69da157a9ca8eae0dbd8c9a68e2f10ccede748e18f75c020920
 - id: doi:10.1016/j.xpro.2022.101784
   title: Generation of non-human primate CAR Tregs using artificial antigen-presenting
     cells, simian tropic lentiviral vectors, and antigen-specific restimulation
@@ -41,7 +41,7 @@
   - Raimon Duran-Struuck
   - James L. Riley
   publisher: STAR Protocols
-  date: ''
+  date: '2022-12-01'
   link: https://doi.org/grhnjx
   image: https://github.com/EllisLabUK/EllisLab.github.io/blob/main/images/2022CellRepMed.jpg?raw=true
   tags:
@@ -49,7 +49,7 @@
   extra-links:
   - type: source
     link: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00131-8
-  _cache: 32c0304b65f64bcd0818e357a68711a700fa65da9168b4a71617c54acd2cb6f3
+  _cache: dbc9bcfe7f98579b5a9710e26752549df0dde304e8ac389536e035671aa506fd
 - id: doi:10.4049/jimmunol.2200145
   title: "HIV-1\u2013Infected CD4<sup>+</sup>T Cells Present MHC Class II\u2013Restricted\
     \ Epitope via Endogenous Processing"
@@ -64,6 +64,7 @@
   publisher: The Journal of Immunology
   date: '2022-08-05'
   link: https://doi.org/grhnxd
+  image: https://aai.silverchair-cdn.com/aai/content_public/journal/jimmunol/209/5/10.4049_jimmunol.2200145/1/m_ji2200145f2.png
   tags:
   - Primary Research
-  _cache: ac2de293089a7da894b04b573c98da46a815f78893c21f7c0a41a951bf072fb4
+  _cache: 3880303ac6e48a6e2ea574bae3a750a6dd0e6ad819046487dc683566049e86a8
