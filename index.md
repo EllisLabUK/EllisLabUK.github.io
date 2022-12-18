@@ -2,10 +2,9 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# The Ellis Lab: Driving CAR Tregs to the clinic
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+The Ellis Lab uses cellular engineering in rodent, non-human primate, and humanized models of disease to bring CAR Tregs to the clinic.
 
 {%
   include link.html
