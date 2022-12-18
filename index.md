@@ -2,6 +2,8 @@
 title: Home
 ---
 
+!(images/EllisLabLogo.png)
+
 # The Ellis Lab: Driving CAR Tregs to the clinic
 
 The Ellis Lab uses cellular engineering in rodent, non-human primate, and humanized models of disease to bring CAR Tregs to the clinic.
