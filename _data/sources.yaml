@@ -36,14 +36,14 @@
 - id: doi:10.1177/1744806916647055
   image: https://journals.sagepub.com/cms/10.1177/1744806916647055/asset/images/large/10.1177_1744806916647055-fig1.jpeg
   tags:
-     - Primary Research
+    - Primary Research
    
 - id: doi:10.1007/s10620-015-3700-2
-    image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10620-015-3700-2/MediaObjects/10620_2015_3700_Fig2_HTML.gif?as=webp
-    tags:
-      - Primary Research
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10620-015-3700-2/MediaObjects/10620_2015_3700_Fig2_HTML.gif?as=webp
+  tags:
+    - Primary Research
       
 - id: doi:10.1002/eji.201343571
-    image: https://onlinelibrary.wiley.com/cms/asset/d6d2f893-4ace-4d92-9e0d-a84dfacbfdc1/eji2774-fig-0003-m.png
-    tags:
-      - Primary Research
+  image: https://onlinelibrary.wiley.com/cms/asset/d6d2f893-4ace-4d92-9e0d-a84dfacbfdc1/eji2774-fig-0003-m.png
+  tags:
+    - Primary Research
