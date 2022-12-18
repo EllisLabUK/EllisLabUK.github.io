@@ -1,7 +1,6 @@
 ---
 name: Gavin Ellis
 image: images/gavinellis.jpg
-description: Principal Investigator
 role: pi
 aliases:
   - Gavin I. Ellis
