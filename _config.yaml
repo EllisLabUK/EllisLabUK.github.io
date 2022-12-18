@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: Ellis Lab
 description: Website for the Ellis Lab at the University of Kentucky
-logo: images/EllisLabLogo.PNG
+logo: images/EllisLabLogo.png
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: ""
