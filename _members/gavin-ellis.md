@@ -1,8 +1,8 @@
 ---
 name: Gavin Ellis
-image: images/member.jpg
+image: images/gavinellis.jpg
 description: Principal Investigator
-role: programmer
+role: Principal Investigator
 
 links:
   email: giel222@uky.edu
