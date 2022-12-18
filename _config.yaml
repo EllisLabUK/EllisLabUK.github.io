@@ -1,8 +1,8 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: Ellis Lab
+description: Website for the Ellis Lab at the University of Kentucky
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
@@ -10,12 +10,9 @@ baseurl: ""
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: giel222@uky.edu
+  google-scholar: V_U1_YgAAAAJ
+  twitter: GavinIEllis
 
 ### advanced settings
 
