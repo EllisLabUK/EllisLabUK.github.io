@@ -2,7 +2,11 @@
 title: Home
 ---
 
-!(images/EllisLabLogo.png)
+{%
+  include figure.html
+  image="images/EllisLabLogo.png"
+  caption="The Ellis Lab"
+%}
 
 # The Ellis Lab: Driving CAR Tregs to the clinic
 
