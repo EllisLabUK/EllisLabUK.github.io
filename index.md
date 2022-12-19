@@ -9,8 +9,6 @@ title: Home
 
 # The Ellis Lab: Driving CAR Tregs to the clinic
 
-The Ellis Lab uses cellular engineering of T cells in rodent, non-human primate, and humanized models of disease to bring CAR Tregs to the clinic.
-
 {:.center}
 
 {% include section.html full=true %}
@@ -22,8 +20,7 @@ The Ellis Lab uses cellular engineering of T cells in rodent, non-human primate,
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The mission of the Ellis Lab is to investigate the foundation of immunological disequilibrium by probing the basic biology of regulatory T cells in both health and disease, and then to translate these findings into celluar-based immunotherapies.
 
 {%
   include link.html
