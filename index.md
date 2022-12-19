@@ -20,7 +20,7 @@ title: Home
 # Highlights
 
 {% capture text %}
-The mission of the Ellis Lab is to investigate the foundation of immunological disequilibrium by probing the basic biology of regulatory T cells in both health and disease, and then to translate these findings into celluar-based immunotherapies.
+The mission of the Ellis Lab is to investigate regulatory T cell function in both health and disease, and then to translate these findings into celluar-based immunotherapies. We use lentiviral vector and CRISPR-based engineering to manipulate cells to this end. Our lab's combinatorial approach of immune competant animal models and immunodeficient humanized systems helps us paint a complete picture of the disease under study. We hope to...
 
 {%
   include link.html
